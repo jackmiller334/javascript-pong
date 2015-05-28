@@ -6,4 +6,4 @@ The enemy pong A.I uses a PID controller to try and help defeat you.
 
 If the enemy gets angry he'll tighten the PID controller up, making it harder to beat!
 
-[PLAY PONG HERE](https://jackmiller.io/pong)
+[PLAY PONG HERE](www.jackmiller.io/pong)
