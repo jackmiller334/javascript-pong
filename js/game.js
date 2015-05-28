@@ -344,6 +344,7 @@ game.checkForScore = function(canvas) {
 		game.onScore();
 		game.addEnemyTaunt("ha.");
 	} else if(game.ball.x > canvas.width + 150) {
+		audio.score.play();
 		game.playerScore++;
 		game.onScore();
 	}
